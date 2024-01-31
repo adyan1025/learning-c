@@ -1,2 +1,2 @@
 # learning-c
-Programs I'm making while learning C
+Programs I've made while learning C
